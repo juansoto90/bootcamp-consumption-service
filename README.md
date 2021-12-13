@@ -1,0 +1,1 @@
+bootcamp-consumption-service
